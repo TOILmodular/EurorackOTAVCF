@@ -6,7 +6,7 @@ The design is based on the AI Synthesis AI004 OTA filter and the MS20 filter.
 
 I extended the module with one more input, so that two audio signals can be filtered together to the same output.
 
-There is a [YouTube video](https://www.youtube.com/watch?v=-D7pCkikvYc) available, showing a demonstration of the sound with several DIY filters, oncluding my first version with only one audio input. But it will give you an idea of how it sounds.
+There is a [YouTube video](https://www.youtube.com/watch?v=-D7pCkikvYc) available, showing a demonstration of the sound with several DIY filters, including my first version with only one audio input. But it will give you an idea of how it sounds.
 
 ## Module Built and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and the Gerber files for the PCB.
@@ -33,6 +33,11 @@ If you want to use the Gerber files for having PCB manufactured, please note the
 - For the tranistors 2N3906, the SMD version MMBT3906 is used on the PCBs.
 - In order to save space, I am always using small size resistors, about 3mm length, which are about half the size of usually used resistors.
 - The switch used is a standard DPDT toggle switch.
+
+![IMG_6343](https://user-images.githubusercontent.com/97026614/177080378-07952f73-b5d9-4510-971c-8f1b7d224b1a.jpeg)
+![IMG_6340](https://user-images.githubusercontent.com/97026614/177080409-bca12c19-b519-4536-8bb6-8a8cd1d2fd66.jpeg)
+![IMG_6341](https://user-images.githubusercontent.com/97026614/177080449-c65c9187-702c-4b1d-a679-37ca9b6846d3.jpeg)
+![IMG_6342](https://user-images.githubusercontent.com/97026614/177080460-54069363-72d8-4546-b3f9-da8439e1579f.jpeg)
 
 <img width="282" alt="OTAVCF_PCB1" src="https://user-images.githubusercontent.com/97026614/177075769-852c615e-270a-4616-aefa-c97f214e308f.png">
 <img width="282" alt="OTAVCF_PCB2" src="https://user-images.githubusercontent.com/97026614/177075802-ea320aa6-6ea8-4929-b313-cb34a2f4e64f.png">
