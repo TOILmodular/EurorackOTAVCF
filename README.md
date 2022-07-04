@@ -10,7 +10,6 @@ There is a [YouTube video](https://www.youtube.com/watch?v=-D7pCkikvYc) availabl
 
 ## Module Built and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and the Gerber files for the PCB.
-For creating a front panel, I added a picture with the dimensions and positions of the control components, fitting to the control PBC layout.
 
 The module is built up by just one PCB. I used several SMD components to keep the module that compact.
 
