@@ -28,7 +28,8 @@ If you want to know about my DIY building process, take a look at those two YouT
 If you want to use the Gerber files for having PCB manufactured, please note the following information about components used.
 
 - The design makes use of the SMD version of the LM13700 IC, called V13700M.
-- Also the quad op amp TL074 is an SMD version. If available for you, you can also use UPC824 instead.
+- Also the quad op amp TL074 is an SMD version. Any other SMD quad op amp with the same pinout should work, as well, e.g. UPC824.
+- There is another SMD dual op amp, NJM4580. Again, any dual op amp with the same pinout (TL072) should be ok.
 - There is a number of SMD 0.1uF capacitors with the package size 1608.
 - For the tranistors 2N3906, the SMD version MMBT3906 is used on the PCBs.
 - In order to save space, I am always using small size resistors, about 3mm length, which are about half the size of usually used resistors.
