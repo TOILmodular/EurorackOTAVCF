@@ -2,7 +2,7 @@
 ## General
 An OTA Voltage Controlled Filter Module in Eurorack format.
 
-The design is based on the AI Synthesis AI004 OTA filter and the MS20 filter.
+The design is based on the MS20 filter.
 
 I extended the module with one more input, so that two audio signals can be filtered together to the same output.
 
