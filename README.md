@@ -26,6 +26,9 @@ If you want to know about my DIY building process, take a look at those two YouT
 - [How I design PCBs for my Eurorack Synth Modules](https://youtu.be/pXtuV9Pv-m4)
 - [Eurorack Module Synth - Building an Electric Druid Wavetable Oscillator Module](https://youtu.be/ECpdo4HfqLg)
 
+## Panel Layout
+I added the information about hole coordinates for the front panel in the folders PanelLayout, referring to the component layout in the Gerber files. The layout is the same for both versions.
+
 ## Additional Information about specific Components
 If you want to use the Gerber files for having PCB manufactured, please note the following information about components used.
 
