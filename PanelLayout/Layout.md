@@ -1,6 +1,6 @@
 ## Panel Layout for PCB
 
-Coordiantes given in the table fit to the layout of components given in the PCB in folders GerberFiles_Orig and GerberFiles_Thonk.
+Coordinates given in the table fit to the layout of components given in the PCB in folders GerberFiles_Orig and GerberFiles_Thonk.
 The layout is the same for both versions.
 
 Panel size: 40mm x 128.5mm
