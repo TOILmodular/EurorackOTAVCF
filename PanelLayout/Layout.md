@@ -1,9 +1,12 @@
 ## Panel Layout for PCB
+
 Coordiantes given in the table fit to the layout of components given in the PCB in folders GerberFiles_Orig and GerberFiles_Thonk.
 The layout is the same for both versions.
-The numbers are referrencing to the numbers in the picture below.
 
-Coordinate origin is the lower left corner of the panel.
+Panel size: 40mm x 128.5mm
+
+The numbers in the table are refering to the numbers in the picture below.
+
 
 | No. | X-coord. [mm] | Y-coord. [mm] |
 | --- | --- | --- |
