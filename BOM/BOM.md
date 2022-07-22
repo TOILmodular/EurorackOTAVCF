@@ -18,11 +18,12 @@
 | Capacitor Ceramic | 1000pF | 2 | |
 | Diode | LED | 2 | |
 | Transistor | MMBT3906 | 2 | SMD |
-| IC | V13700M | 1 | SMD |
-| IC | TL074 | 1 | SMD |
-| IC | NJM4580 | 1 | SMD |
+| OYA | V13700M | 1 | SMD |
+| Op Amp | TL074 | 1 | SMD |
+| Op Amp | NJM4580 | 1 | SMD |
 | DPDT Toggle Switch | ON-ON | 1 | Mouser: 118-1MD1T1B1M1QNS |
 | Potentiometer | B100K | 1 | |
 | Potentiometer | B50K | 1 | |
 | Potentiometer | A100K | 2 | |
 | Mono Jack | 3.5mm | 4 | |
+| Header | 2.54mm Female 2x5 | 1 | Power Connector |
