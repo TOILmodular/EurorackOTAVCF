@@ -8,7 +8,7 @@ I extended the module with one more input, so that two audio signals can be filt
 
 There is a [YouTube video](https://www.youtube.com/watch?v=-D7pCkikvYc) available, showing a demonstration of the sound with several DIY filters, including my first version with only one audio input. But it will give you an idea of how it sounds.
 
-## Module Built and PCBs
+## Module Build and PCBs
 If you want to build the module yourself, I uploaded the schematics, the BOM and the Gerber files for the PCB.
 
 The module is built up by just one PCB. I used several SMD components to keep the module that compact.
