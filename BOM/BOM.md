@@ -14,7 +14,7 @@
 | Resistor 1/4W | 470K | 1 | |
 | Capacitor Electrolytic | 10uF | 3 | |
 | Capacitor Ceramic | 0.1uF | 6 | SMD - Package 1608 |
-| Capacitor Ceramic | 4700pF | 2 | |
+| Capacitor Ceramic | 4700pF | 1 | |
 | Capacitor Ceramic | 1000pF | 2 | |
 | Diode | LED | 2 | |
 | Transistor | MMBT3906 | 2 | SMD |
