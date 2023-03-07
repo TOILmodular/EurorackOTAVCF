@@ -15,9 +15,9 @@ The numbers in the table are refering to the numbers in the picture below.
 | 3 | 29 | 80 |
 | 4 | 11 | 55 |
 | 5 | 29 | 55 |
-| 6 | 11 | 30 |
-| 7 | 29 | 30 |
-| 8 | 11 | 15 |
-| 9 | 29 | 15 |
+| 6 | 12.5 | 30 |
+| 7 | 27.5 | 30 |
+| 8 | 12.5 | 15 |
+| 9 | 27.5 | 15 |
 
 ![OTAVCFPanel](https://user-images.githubusercontent.com/97026614/178226437-639a731c-bcb0-44be-8a6d-ce591c600c48.jpg)
