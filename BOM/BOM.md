@@ -26,4 +26,4 @@
 | Potentiometer | B50K | 1 | |
 | Potentiometer | A100K | 2 | |
 | Mono Jack | 3.5mm | 4 | |
-| Header | 2.54mm Female 2x5 | 1 | Power Connector |
+| Header | 2.54mm Male 2x5 | 1 | Power Connector |
